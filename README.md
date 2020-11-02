@@ -2,8 +2,8 @@
 유명한 하얀책들을 읽고 커밋하는 스터디
 
 ## 하얀책 목록
-<a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LAG&Kc=#N"><img src="/clean-code/images/cleancode-book-cover.jpg" width="75"></a>&nbsp;&nbsp;
-<a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEA&Kc="><img src="/clean-code/images/clean-architecture-book-cover.jpg" width="75"></a>&nbsp;&nbsp;
+<a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LAG&Kc=#N"  target="_brank"><img src="/clean-code/images/cleancode-book-cover.jpg" width="75"></a>&nbsp;&nbsp;
+<a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEA&Kc="  target="_brank"><img src="/clean-architecture/images/clean-architecture-book-cover.jpg" width="75"></a>&nbsp;&nbsp;
 
 - [클린코드](./clean-code)
 - 클린아키텍처(예정)<br/>
